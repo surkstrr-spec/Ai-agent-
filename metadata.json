@@ -1,0 +1,6 @@
+{
+  "name": "Aura Agent",
+  "description": "مساعد ذكي عائم للتحكم بالجوال وأتمتة المهام الرؤيوية والتخطيط الزمني ونظام التراجع العكسي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

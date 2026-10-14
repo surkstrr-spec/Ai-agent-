@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aura Agent</string>
+    <string name="accessibility_service_label">Aura Agent Automation Service</string>
+    <string name="accessibility_service_description">يقوم Aura Agent بتمكين التحكم الذكي باللمس، السحب، وإدخال النصوص لتنفيذ مهام المستخدم وأتمتة الشاشة والتراجع العكسي بأمان.</string>
+</resources>
